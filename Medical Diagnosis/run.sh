@@ -1,0 +1,1 @@
+./diagnosis $1 $2
