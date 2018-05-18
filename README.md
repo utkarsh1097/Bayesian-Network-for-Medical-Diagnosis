@@ -1,2 +1,4 @@
-# COV884-Assignment
-Repository for the assignment of COV884 - Uncertainty in AI
+# Bayesian Network for Medical Diagnosis
+
+This was a course assignment for *COV884 - Special Module in Artificial Intelligence*
+
